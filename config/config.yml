@@ -1,0 +1,2 @@
+WRITE_URL: my_db_user:S3cret@localhost:3306/my_db?sslmode=disable
+READ_URL: my_db_user:S3cret@localhost:3307/my_db?sslmode=disable
